@@ -4,8 +4,13 @@
     <title>Posts on The Narrator</title>
     <link>https://samrakshak.github.io/thenarrator.github.io/post/</link>
     <description>Recent content in Posts on The Narrator</description>
+    <image>
+      <url>https://samrakshak.github.io/thenarrator.github.io/static/images</url>
+      <link>https://samrakshak.github.io/thenarrator.github.io/static/images</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Samrakshak Karki 2022</copyright>
     <lastBuildDate>Wed, 13 Jul 2022 22:53:49 +0545</lastBuildDate><atom:link href="https://samrakshak.github.io/thenarrator.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New</title>
